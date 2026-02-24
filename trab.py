@@ -1,0 +1,18 @@
+Salario = 2000000
+Prima = 166667 # (8.33)
+Cesantias = 166667 # (8.33)
+Intereses_de_cesantias = 20000 # (1)
+Vacaciones = 83333 # (4.17)
+Aportes_a_salud = 170000 # (8.5)
+Aportes_a_pension = 240000 # (12)
+ARL = 10400 # (0.52)
+Caja_de_compensacion = 80000 # (4)
+
+print("nombre", nombre)
+print("Salario", Salario)
+print("Cesantias", Cesantias)
+print("Intereses de cesantias", Intereses_de_cesantias)
+print("Vacaciones", Vacaciones)
+print("Aportes a salud", Aportes_a_salud)
+print("Aportes a pension", Aportes_a_pension)
+print(ARL)
